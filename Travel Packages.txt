@@ -1,0 +1,38 @@
+<html>
+    <head>
+        <title>
+            Travel Packages
+        </title>
+        <META name="VIEWPORT" content="WIDTH=DEVICE-WIDTH, INITIAL-SCALE=1.0">
+            <link REL="STYLESHEET" HREF="STYLE.CSS">
+    </head>
+    <body>
+       <u><b><h1 class = "sub-title" style="text-align: center;">Popular Packages</h1><br></b></u>
+        <hr color="orange" size="6"><br>
+        <div class="stories">
+            <div>
+                <img src="images/images/Kashmir.jpg"><font size="4">
+                <p><b><u><i>
+                    Exotic Kashmir with Gulmarg - Winter Special :<br>
+                    Srinagar (1N)→Pahalgam (2N)→Gulmarg (1N)→Srinagar (2N)<br>
+                    Total = 6 Days , 7 Nights.</i></u></b></p>
+            </div>
+            <div>
+                <img src="images/images/Maldives.jpg">
+                <p><b><u><i>
+                    Maldives - Kandima Special tour :<br>
+                    Accommodation: 2N Sky Studio + 2N Aqua Villa<br>
+                    Total = 5 Days , 4 Nights.</i></u></b>
+                </p>
+            </div>
+            <div>
+                <img src="images/images/Bali.jpg">
+                <p><b><u><i>
+                    Crazy Bali With Water Sport Activities :<br>
+                    Bali = Hotel Zia Kuta / Similar	Hotel Grand Ixora Kuta / Eden Hotel Kuta/ Similar<br>
+                    Total = 7 Days , 6 Nights.</i></u></b></font>
+                </p>
+            </div>
+        </div>
+    </body>
+</html>
